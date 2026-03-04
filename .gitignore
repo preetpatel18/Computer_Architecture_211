@@ -1,11 +1,14 @@
 # Ignore everything
 *
 
-# Allow the hws folder
-!hw1
-!hw2
-!hw3
+# Allow hw folders + their contents
+!hw1/
+!hw1/**
+!hw2/
+!hw2/**
+!hw3/
+!hw3/**
 
-# Keep the .gitignore file itself
+# Keep these files
 !.gitignore
 !README.md
