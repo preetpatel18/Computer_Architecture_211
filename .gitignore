@@ -4,7 +4,7 @@
 # Allow the hws folder
 !hw1
 !hw2
-!hw3_files
+!hw3
 
 # Keep the .gitignore file itself
 !.gitignore
