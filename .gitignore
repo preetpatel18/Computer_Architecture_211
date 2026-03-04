@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Allow the hws folder
+!hws/
+!hws/**
+
+# Keep the .gitignore file itself
+!.gitignore
+!README.md

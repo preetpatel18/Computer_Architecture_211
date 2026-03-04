@@ -1,7 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =5
-let g:netrw_dirhist_5='/common/home/pcp70/hw1'
-let g:netrw_dirhist_4='/common/home/pcp70'
-let g:netrw_dirhist_3='/common/home/pcp70/hw1'
-let g:netrw_dirhist_2='/common/home/pcp70'
-let g:netrw_dirhist_1='/common/home/pcp70/hw1'
